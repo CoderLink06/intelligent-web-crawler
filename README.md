@@ -40,10 +40,7 @@ The project focuses on:
 
 # Web Crawler Workflow
 
-![Web Crawler Workflow](<img width="1024" height="1536" alt="web" src="https://github.com/user-attachments/assets/e5bfd9bb-f2c6-49cd-8db9-c271148f4b67" />
-)
-
----
+![Web Crawler Workflow](https://github.com/user-attachments/assets/e5bfd9bb-f2c6-49cd-8db9-c271148f4b67)
 
 ## Project Structure
 
