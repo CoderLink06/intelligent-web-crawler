@@ -1,0 +1,4 @@
+cd Current 
+cd neuralcrawling
+
+ython -m scrapy crawl mycrawler 
